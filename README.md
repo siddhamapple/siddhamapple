@@ -1,5 +1,3 @@
-# 💫 About Me:
-I'm currently working on building DL, LLM projects<br>🎓 **B.Tech. in Electrical and Computer Engineering**  <br>📍 Shiv Nadar University | Batch of 2026  <br>🚀 AI/ML Enthusiast | Builder | Problem Solver<br><br>---<br><br>## 🧠 About Me<br><br>I'm an engineering student driven by curiosity and a deep passion for **Artificial Intelligence, Machine Learning**, and **Generative AI**. I believe in learning by building, and I'm currently working on applying LLMs, RAG systems, and real-world AI applications.
 
 
 ## 🌐 Socials:
